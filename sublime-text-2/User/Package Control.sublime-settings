@@ -1,6 +1,7 @@
 {
 	"in_process_packages":
 	[
+		"Clipboard History"
 	],
 	"installed_packages":
 	[
@@ -8,6 +9,8 @@
 		"C Improved",
 		"Clipboard History",
 		"CTags",
+		"Makefile Improved",
+		"Package Control",
 		"Theme - Soda"
 	]
 }
