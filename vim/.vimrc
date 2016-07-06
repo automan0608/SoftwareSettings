@@ -15,6 +15,7 @@ set mat=2
 set autoread
 
 set nu
+set cursorline
 
 syntax enable
 syntax on
